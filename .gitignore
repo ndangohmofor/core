@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### maven ###
+.mvn/
+mvn**
+
+### application properties file #########
+application.properties
+application.yml
+application-local.properties
+application-local.yml
