@@ -1,2 +1,4 @@
-package com.meufty.ws.core.events;public class WithdrawalrequestEvent {
+package com.meufty.ws.core.events;
+
+public class WithdrawalRequestEvent {
 }
